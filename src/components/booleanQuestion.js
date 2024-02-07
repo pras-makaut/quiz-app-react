@@ -1,9 +1,9 @@
 import React from 'react'
 
-const booleanQuestion = () => {
+const BooleanQuestion = () => {
   return (
-    <div>booleanQuestion</div>
+    <div>BooleanQuestion</div>
   )
 }
 
-export default booleanQuestion
+export default BooleanQuestion
